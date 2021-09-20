@@ -1,0 +1,81 @@
+input{
+    width: 85%;
+    height: 30%;
+    text-align: center;
+    margin: 2px;
+    padding: 7px;
+    border-radius: 2px;
+    color: #545c5c;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+    
+}
+input:focus{
+    
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+body{
+    text-align: -webkit-center;
+}
+.container{
+    width: 35%;
+    height: 10%;
+    color: #8f9bad;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+}
+.container:focus{
+     border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+#countdown{
+    margin: 5px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 60px;
+    color: #fff;
+    padding: 9.5px 36px;
+    background-color: #6e72fc;
+    background-image: linear-gradient(315deg, #6e72fc 0%, #3bbedb 74%);
+    background-size: 200% auto;
+}
+.btn{
+    width: 65%;
+    padding: 10px;
+    border: 0;
+    border-radius: 25px;
+    color: #fff;
+    padding: 9.5px 36px;
+    background-color: #6e72fc;
+    background-image: linear-gradient(315deg, #6e72fc 0%, #3bbedb 74%);
+    background-size: 200% auto;
+}
+
+textarea{
+    color: #8f9bad;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+}
+textarea:focus{
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+h1{
+    color: black;
+}
+label{
+    color: rgb(83, 81, 81);
+}
+
